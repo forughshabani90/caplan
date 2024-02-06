@@ -30,7 +30,5 @@ public class GalleryService {
             gallery1.setId(gallery.getId());
         }
 
-
-
     }
 }

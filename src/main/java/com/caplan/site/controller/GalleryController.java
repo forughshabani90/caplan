@@ -33,6 +33,6 @@ public class GalleryController {
     }
     @PutMapping("id")
     public Gallery update(@PathVariable("id") Long id, Gallery gallery){
-      return   galleryService.
+
     }
 }
